@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "image": "/central.jpg",
+    "title": "Central Government",
+    "subtitle": "Centralised Public Grievance Portal",
+    "buttonText": "Register Complaint",
+    "link": "https://pgportal.gov.in/"
+  },
+  {
+    "id": 2,
+    "image": "/state.jpg",
+    "title": "State Government",
+    "subtitle": "State-Level Grievance Portal",
+    "buttonText": "Register Complaint",
+    "link":"https://www.maharashtra.gov.in/"
+  },
+  {
+    "id": 3,
+    "image": "/railway.jpg",
+    "title": "Railway Department",
+    "subtitle": "Indian Railways Customer Grievance",
+    "buttonText": "Register Complaint",
+    "link": "https://www.railmadad.indianrailways.gov.in/"
+  },
+  {
+    "id": 4,
+    "image": "/electricity.jpg",
+    "title": "Electricity Board",
+    "subtitle": "Consumer Complaint and Query Portal",
+    "buttonText": "Register Complaint",
+    "link": "https://www.consumercomplaints.in/electricity-board"
+  },
+  {
+    "id": 5,
+    "image": "/bank.jpg",
+    "title": "Banking Sector",
+    "subtitle": "Online Banking Ombudsman Portal",
+    "buttonText": "Raise Banking Issue",
+    "link": "https://cms.rbi.org.in/"
+  },
+  {
+    "id": 6,
+    "image": "/telecom.jpg",
+    "title": "Telecom Services",
+    "subtitle": "TRAI Consumer Complaint Portal",
+    "buttonText": "Report Issue",
+    "link": "https://www.tccms.gov.in/"
+  },
+  {
+    "id": 7,
+    "image": "/police.jpg",
+    "title": "Police Department",
+    "subtitle": "Online FIR and Complaint System",
+    "buttonText": "File Complaint",
+    "link": "https://citizenportal.maharashtrapolice.gov.in/"
+  },
+  {
+    "id": 8,
+    "image": "/education.jpg",
+    "title": "Education Department",
+    "subtitle": "Grievance Portal for Students and Staff",
+    "buttonText": "Raise Issue",
+    "link": "https://www.ugc.ac.in/grievance/"
+  },
+  {
+    "id": 9,
+    "image": "/health.jpg",
+    "title": "Health Department",
+    "subtitle": "National Health Mission - Public Complaints",
+    "buttonText": "Report Health Issue",
+    "link": "https://www.nhm.gov.in/"
+  },
+  {
+    "id": 10,
+    "image": "/agriculture.jpg",
+    "title": "Agriculture Department",
+    "subtitle": "Farmer’s Complaint & Feedback Portal",
+    "buttonText": "Register Issue",
+    "link": "https://farmer.gov.in/"
+  },
+  {
+    "id": 11,
+    "image": "/municipal.jpg",
+    "title": "Municipal Corporation",
+    "subtitle": "City Civic Complaint System",
+    "buttonText": "Raise Civic Issue",
+    "link": "https://mcgm.gov.in/"
+  },
+  {
+    "id": 12,
+    "image": "/transport.jpg",
+    "title": "Transport Department",
+    "subtitle": "RTO Online Complaint and Enquiry",
+    "buttonText": "Submit Complaint",
+    "link": "https://parivahan.gov.in/"
+  },
+  {
+    "id": 13,
+    "image": "/water.jpg",
+    "title": "Water Supply",
+    "subtitle": "Urban and Rural Water Complaint Portal",
+    "buttonText": "Report Water Issue",
+    "link": "https://jalshakti-ddws.gov.in/"
+  },
+  
+  {
+    "id": 14,
+    "image": "/employment.jpg",
+    "title": "Employment Department",
+    "subtitle": "National Career Service Feedback Portal",
+    "buttonText": "Submit Query",
+    "link": "https://www.ncs.gov.in/"
+  },
+  {
+    "id": 15,
+    "image": "/revenue.jpg",
+    "title": "Revenue Department",
+    "subtitle": "Land Records and Property Grievances",
+    "buttonText": "Register Grievance",
+    "link": "https://mahabhulekh.maharashtra.gov.in/"
+  }
+]
