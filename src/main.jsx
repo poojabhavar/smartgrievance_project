@@ -4,6 +4,8 @@ import ReactDOM from 'react-dom/client'
 // import { Header } from './Components/header'
 import {State} from './practicals/State.jsx'
 import { FormExample } from './practicals/RealLifeState.jsx'
+
+import { ParentComponent } from './practicals/ChildComponents.jsx'  
  
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -11,7 +13,9 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     {/* <Header/> */}
     {/* <Registration/> */}
     {/* *<State/> */}
-    <FormExample/>
+    {/* <FormExample/> */}
+  
+    <ParentComponent/>
    
     
   </React.StrictMode>
